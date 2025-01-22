@@ -7,7 +7,7 @@
 
 - 📝 leia sobre mim no link [https://sites.google.com/view/vitoriaribeirodf/home?authuser=6](https://sites.google.com/view/vitoriaribeirodf/home?authuser=6)
 
-- 💬 Me pergunte sobre **Sql, banco de dados, Power BI, Excel**
+- 💬 Me pergunte sobre **Sql, banco de dados, Power BI, Excel, Java**
 
 - 📫 Você me acha através do email **vitoriaribeirodf@gmail.com**
 
